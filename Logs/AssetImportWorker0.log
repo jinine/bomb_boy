@@ -1944,3 +1944,231 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002639 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 7.65 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 13.092 seconds
+Domain Reload Profiling:
+	ReloadAssembly (13094ms)
+		BeginReloadAssembly (1390ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (905ms)
+		EndReloadAssembly (10398ms)
+			LoadAssemblies (843ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (3179ms)
+			ReleaseScriptCaches (17ms)
+			RebuildScriptCaches (831ms)
+			SetupLoadedEditorAssemblies (4525ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (141ms)
+				SetLoadedEditorAssemblies (13ms)
+				RefreshPlugins (8ms)
+				BeforeProcessingInitializeOnLoad (667ms)
+				ProcessInitializeOnLoadAttributes (3164ms)
+				ProcessInitializeOnLoadMethodAttributes (496ms)
+				AfterProcessingInitializeOnLoad (36ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (1ms)
+			AwakeInstancesAfterBackupRestoration (323ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 9.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3645 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 37 unused Assets / (1.4 MB). Loaded Objects now: 4608.
+Memory consumption went from 256.4 MB to 255.0 MB.
+Total: 13.912373 ms (FindLiveObjects: 0.541885 ms CreateObjectMapping: 0.599524 ms MarkObjects: 12.071333 ms  DeleteObjects: 0.696474 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002711 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 11.24 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.355 seconds
+Domain Reload Profiling:
+	ReloadAssembly (9359ms)
+		BeginReloadAssembly (186ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (71ms)
+		EndReloadAssembly (9027ms)
+			LoadAssemblies (114ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (3017ms)
+			ReleaseScriptCaches (30ms)
+			RebuildScriptCaches (450ms)
+			SetupLoadedEditorAssemblies (4277ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (40ms)
+				SetLoadedEditorAssemblies (17ms)
+				RefreshPlugins (12ms)
+				BeforeProcessingInitializeOnLoad (502ms)
+				ProcessInitializeOnLoadAttributes (3191ms)
+				ProcessInitializeOnLoadMethodAttributes (482ms)
+				AfterProcessingInitializeOnLoad (31ms)
+				EditorAssembliesLoaded (3ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (70ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.11 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3645 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 37 unused Assets / (1.4 MB). Loaded Objects now: 4623.
+Memory consumption went from 256.5 MB to 255.2 MB.
+Total: 6.337892 ms (FindLiveObjects: 0.536746 ms CreateObjectMapping: 0.637548 ms MarkObjects: 4.637155 ms  DeleteObjects: 0.524278 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002492 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.247 seconds
+Domain Reload Profiling:
+	ReloadAssembly (9253ms)
+		BeginReloadAssembly (212ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (88ms)
+		EndReloadAssembly (8889ms)
+			LoadAssemblies (205ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (2750ms)
+			ReleaseScriptCaches (9ms)
+			RebuildScriptCaches (646ms)
+			SetupLoadedEditorAssemblies (3988ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (92ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (533ms)
+				ProcessInitializeOnLoadAttributes (2968ms)
+				ProcessInitializeOnLoadMethodAttributes (384ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (91ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3645 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 37 unused Assets / (1.4 MB). Loaded Objects now: 4638.
+Memory consumption went from 256.7 MB to 255.4 MB.
+Total: 4.842536 ms (FindLiveObjects: 0.440376 ms CreateObjectMapping: 0.384735 ms MarkObjects: 3.597224 ms  DeleteObjects: 0.418608 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002397 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 5.52 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.539 seconds
+Domain Reload Profiling:
+	ReloadAssembly (8543ms)
+		BeginReloadAssembly (253ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (128ms)
+		EndReloadAssembly (8150ms)
+			LoadAssemblies (133ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (2661ms)
+			ReleaseScriptCaches (8ms)
+			RebuildScriptCaches (399ms)
+			SetupLoadedEditorAssemblies (3759ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (145ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (6ms)
+				BeforeProcessingInitializeOnLoad (419ms)
+				ProcessInitializeOnLoadAttributes (2848ms)
+				ProcessInitializeOnLoadMethodAttributes (314ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (57ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 22.12 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3645 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 37 unused Assets / (1.4 MB). Loaded Objects now: 4653.
+Memory consumption went from 257.0 MB to 255.7 MB.
+Total: 27.235751 ms (FindLiveObjects: 2.839786 ms CreateObjectMapping: 2.544015 ms MarkObjects: 19.239268 ms  DeleteObjects: 2.598635 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
