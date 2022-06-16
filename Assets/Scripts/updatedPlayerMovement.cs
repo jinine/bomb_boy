@@ -5,11 +5,15 @@ using UnityEngine;
 public class updatedPlayerMovement : MonoBehaviour
 {
 
-    public float speed;
+    
     public float rotationSpeed;
     public float jumpSpeed;
     public float jumpGracePeriod;
 
+    
+    private float walkSpeed = 7.5f;
+    private float runSpeed = 15f;
+    private float speed;
     private Animator animator;
     private float ySpeed;
     private float originalStepOffset;
@@ -60,6 +64,14 @@ public class updatedPlayerMovement : MonoBehaviour
             characterController.stepOffset = 0;
         }
 
+        if(Input.GetButton("Sprint") && characterController.isGrounded){
+            animator.SetBool("running", true);
+            speed = runSpeed;
+        } else {
+           animator.SetBool("running", false);
+           speed = walkSpeed; 
+        }
+        
         // transform.Translate(movementDirection * magnitude * speed * Time.deltaTime, Space.World);
         Vector3 velocity = movementDirection * speed* magnitude;
         velocity.y = ySpeed;
@@ -71,6 +83,7 @@ public class updatedPlayerMovement : MonoBehaviour
             Quaternion toRotation = Quaternion.LookRotation(movementDirection, Vector3.up);
 
             transform.rotation = Quaternion.RotateTowards(transform.rotation, toRotation, rotationSpeed * Time.deltaTime);
+
         } else{
             animator.SetBool("moving", false);
         }
