@@ -53,3 +53,11 @@ Update Mode: mergeDefaultDependencies
 The following packages were added:
   com.unity.postprocessing@2.3.0
   com.unity.recorder@2.5.5
+
+=== Sun Jun 19 17:29:33 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.shadergraph@12.1.0

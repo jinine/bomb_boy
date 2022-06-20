@@ -21,6 +21,8 @@ public class updatedPlayerMovement : MonoBehaviour
     private float? jumpButtonPressedTime;
     private float? lastGroundedTime;
 
+    [SerializeField] private Transform cameraTransform;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -38,6 +40,8 @@ public class updatedPlayerMovement : MonoBehaviour
         Vector3 movementDirection = new Vector3(horizontalInput, 0, verticalInput);
         float magnitude = movementDirection.magnitude;
         magnitude = Mathf.Clamp01(magnitude);
+
+        movementDirection = Quaternion.AngleAxis(cameraTransform.rotation.eulerAngles.y, Vector3.up) * movementDirection;
         movementDirection.Normalize();
 
         ySpeed += Physics.gravity.y * Time.deltaTime;
@@ -86,6 +90,14 @@ public class updatedPlayerMovement : MonoBehaviour
 
         } else{
             animator.SetBool("moving", false);
+        }
+    }
+
+    private void onApplicationFocus(bool focus){
+        if(focus){
+            Cursor.lockState = CursorLockMode.Locked;
+        } else{
+            Cursor.lockState = CursorLockMode.None;
         }
     }
 }
