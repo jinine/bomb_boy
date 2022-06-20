@@ -31,7 +31,10 @@ public class Gun : MonoBehaviour
         RaycastHit hitInfo;
 
         if(Physics.Raycast(ray, out hitInfo, 100)){
-            Destroy(hitInfo.collider.gameObject);
+            if(hitInfo.collider.gameObject.tag != "terrain"){
+                 Destroy(hitInfo.collider.gameObject);
+            }
+           
         }
     }
 }
