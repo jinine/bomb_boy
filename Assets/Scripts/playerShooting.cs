@@ -6,7 +6,7 @@ using Cinemachine;
 public class playerShooting : MonoBehaviour
 {
 
-    [SerializeField] private CinemachineVirtualCamera aimCamera;
+    [SerializeField] private CinemachineFreeLook aimCamera;
     public GameObject crosshair;
     private Animator animator;
 
