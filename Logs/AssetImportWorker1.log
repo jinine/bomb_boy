@@ -759,3 +759,708 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2779.419634 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/Tutorial.jpg
+  artifactKey: Guid(68320fc3c6d6340d99c2a2a720dc2067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/Tutorial.jpg using Guid(68320fc3c6d6340d99c2a2a720dc2067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'decfa75d11faf30badfa99aa5bdf8a45') in 1.219945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.804897 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D
+  artifactKey: Guid(5704ef2e03d3843178ae511fa2c3ecd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D using Guid(5704ef2e03d3843178ae511fa2c3ecd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd137565638337499b1042e69939a3dfe') in 0.005956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.123941 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ
+  artifactKey: Guid(d7e326d46d2bd4976a000992057dd384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ using Guid(d7e326d46d2bd4976a000992057dd384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78cc19e8e423b193f77ef1db7832f3e4') in 0.001902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.198800 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ/Cube_Dirt_Center_Tall.obj
+  artifactKey: Guid(35e030fc505234f41ba3c3ec953df477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ/Cube_Dirt_Center_Tall.obj using Guid(35e030fc505234f41ba3c3ec953df477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37969f3aa4713fadbe196012eb8d7c9e') in 0.195375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ/Cube_Dirt_Side_Tall.obj
+  artifactKey: Guid(cd60074f1cb1c4db2a2c9e2995e9c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ/Cube_Dirt_Side_Tall.obj using Guid(cd60074f1cb1c4db2a2c9e2995e9c002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd46e764f76ba1fe0d70fc6d94f5d735') in 0.318189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ/Cube_Dirt_Corner_Tall.obj
+  artifactKey: Guid(2821c8586c9a74053b1637c4b504596f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ/Cube_Dirt_Corner_Tall.obj using Guid(2821c8586c9a74053b1637c4b504596f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd0bfecc0e4f27643d796320277bab5') in 0.332502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.067535 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ/Cube_Grass_Bottom_Tall.obj
+  artifactKey: Guid(8378df635f2674610a63a09c512b7d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ/Cube_Grass_Bottom_Tall.obj using Guid(8378df635f2674610a63a09c512b7d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258872c48470c7f17c543c9172d7dc05') in 0.141386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001063 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ/Cube_Grass_Center_Tall.obj
+  artifactKey: Guid(2aefcc806a09f4c4d8d8f8af9ce5fa7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/OBJ/Cube_Grass_Center_Tall.obj using Guid(2aefcc806a09f4c4d8d8f8af9ce5fa7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4038adde03652751ab417a01533809b') in 0.247762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.966195 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Dirt_Center_Tall.fbx
+  artifactKey: Guid(56aa7bc2bca444b3ba93c444b998a128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Dirt_Center_Tall.fbx using Guid(56aa7bc2bca444b3ba93c444b998a128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db18eb492849138c32e37a504ade06b4') in 0.987384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_Center_Tall.fbx
+  artifactKey: Guid(d3d57e782941841beadb55be02dd7ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_Center_Tall.fbx using Guid(d3d57e782941841beadb55be02dd7ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2d83a88b791dd24c58dfc597f391f2') in 0.235291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Dirt_Corner_Tall.fbx
+  artifactKey: Guid(386204b2092334ddfa9923e14d840047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Dirt_Corner_Tall.fbx using Guid(386204b2092334ddfa9923e14d840047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e094d43e9930f2a02eaa4794b4e91ac2') in 0.194040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_Bottom_Tall.fbx
+  artifactKey: Guid(b96959bf46a564e15af84548eb928e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_Bottom_Tall.fbx using Guid(b96959bf46a564e15af84548eb928e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6be726221d5f1d22c7f47fd036d9c52') in 0.199254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_Corner_Tall.fbx
+  artifactKey: Guid(1e8b7a6e8b29f498fae7fdf80e92647b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_Corner_Tall.fbx using Guid(1e8b7a6e8b29f498fae7fdf80e92647b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e511dd151add657ff5d6e677a9760b') in 0.330382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Dirt_Side_Tall.fbx
+  artifactKey: Guid(86d701615993f4d11b9e0a987b66ef4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Dirt_Side_Tall.fbx using Guid(86d701615993f4d11b9e0a987b66ef4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84291462438213741b9c5cba84ffb5b7') in 0.331015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.196590 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_CornerBottom_Tall.fbx
+  artifactKey: Guid(0234653941f384ef1b94b03f35340c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_CornerBottom_Tall.fbx using Guid(0234653941f384ef1b94b03f35340c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c8f06890d78eab40e1fc62f608b783') in 0.040043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.410010 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_CornerCenter_Tall.fbx
+  artifactKey: Guid(756a31572adfe4887b27535b840e34da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_CornerCenter_Tall.fbx using Guid(756a31572adfe4887b27535b840e34da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4445f8c9541f6df4b8d45a1259dcb46') in 0.039116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.439813 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_Side_Tall.fbx
+  artifactKey: Guid(29c9cf10bef8a4915b69e750bd8ccfbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_Side_Tall.fbx using Guid(29c9cf10bef8a4915b69e750bd8ccfbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f34e6101a7d842ee5d1eabb9b3b9f5') in 0.047259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.371794 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_SideBottom_Tall.fbx
+  artifactKey: Guid(5aceeb7c2e493491f9c0a12ac90decd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_SideBottom_Tall.fbx using Guid(5aceeb7c2e493491f9c0a12ac90decd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ccc45fd0f96469393f4e09ceaed076e') in 0.044226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022451 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_SideCenter_Tall.fbx
+  artifactKey: Guid(a944ec929aff3469b964a17ba09e8c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/3D/FBX/Cube_Grass_SideCenter_Tall.fbx using Guid(a944ec929aff3469b964a17ba09e8c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a97955fa21d08011d9c6dfd096be41b9') in 0.399557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.457085 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/Single Cube/FBX
+  artifactKey: Guid(a281500eb664e484fa9d82da90e6ddf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/Single Cube/FBX using Guid(a281500eb664e484fa9d82da90e6ddf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46982d701a448debedfefe9ea8c00058') in 0.004621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.224891 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/Single Cube/FBX/Cube_Dirt_Single.fbx
+  artifactKey: Guid(e4f7f9870e0c44ea79491da1d887f0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/Single Cube/FBX/Cube_Dirt_Single.fbx using Guid(e4f7f9870e0c44ea79491da1d887f0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd53d02adf1974e9eb69ef24b5db12b8') in 0.120235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/Single Cube/FBX/Cube_Grass_Single.fbx
+  artifactKey: Guid(d2891c45975b44732814a606b75fbd43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Modular Platforms/Single Cube/FBX/Cube_Grass_Single.fbx using Guid(d2891c45975b44732814a606b75fbd43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44166fa3308d5c0d671851d716c5656c') in 0.269808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.524438 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Level and Mechanics/OBJ/Arrow.obj
+  artifactKey: Guid(37da39c367c224d8a8243b880e76aa7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Level and Mechanics/OBJ/Arrow.obj using Guid(37da39c367c224d8a8243b880e76aa7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca184aab209b45b07a64e2f22e45fb66') in 0.207026 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002872 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 3.58 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.991 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5993ms)
+		BeginReloadAssembly (673ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (287ms)
+		EndReloadAssembly (4822ms)
+			LoadAssemblies (637ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1571ms)
+			ReleaseScriptCaches (19ms)
+			RebuildScriptCaches (395ms)
+			SetupLoadedEditorAssemblies (2028ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (49ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (4ms)
+				BeforeProcessingInitializeOnLoad (212ms)
+				ProcessInitializeOnLoadAttributes (1655ms)
+				ProcessInitializeOnLoadMethodAttributes (100ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 16.97 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3799 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (1.9 MB). Loaded Objects now: 4556.
+Memory consumption went from 295.8 MB to 293.9 MB.
+Total: 19.632454 ms (FindLiveObjects: 2.091092 ms CreateObjectMapping: 2.115780 ms MarkObjects: 12.440862 ms  DeleteObjects: 2.975338 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003740 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 3.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.253 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5254ms)
+		BeginReloadAssembly (171ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (68ms)
+		EndReloadAssembly (4633ms)
+			LoadAssemblies (263ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1274ms)
+			ReleaseScriptCaches (9ms)
+			RebuildScriptCaches (382ms)
+			SetupLoadedEditorAssemblies (2345ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (39ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (236ms)
+				ProcessInitializeOnLoadAttributes (1919ms)
+				ProcessInitializeOnLoadMethodAttributes (141ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 16.12 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3799 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (1.9 MB). Loaded Objects now: 4571.
+Memory consumption went from 296.1 MB to 294.2 MB.
+Total: 17.221928 ms (FindLiveObjects: 1.787828 ms CreateObjectMapping: 2.384616 ms MarkObjects: 10.232576 ms  DeleteObjects: 2.808812 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 271.766627 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/OBJ/Coin.obj
+  artifactKey: Guid(6db74de7ce7f04a78ac751ceb86ac2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/OBJ/Coin.obj using Guid(6db74de7ce7f04a78ac751ceb86ac2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b5c4899c727dc1fbf829a5b754813a') in 0.304611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/OBJ/Gem_Green.obj
+  artifactKey: Guid(5757a129f9aea4093ba0651b1501ff3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/OBJ/Gem_Green.obj using Guid(5757a129f9aea4093ba0651b1501ff3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9088bd9d824d7e018fe0fa4aa2a1487f') in 0.226970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/OBJ/Gem_Blue.obj
+  artifactKey: Guid(cf404e20512904882883e29ebff9ee9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/OBJ/Gem_Blue.obj using Guid(cf404e20512904882883e29ebff9ee9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5dfe8fbe6fcab87f036530ea0b6a88') in 0.372672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Gem_Blue.fbx
+  artifactKey: Guid(a199add03a23c473b9ad7b0399e4967e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Gem_Blue.fbx using Guid(a199add03a23c473b9ad7b0399e4967e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '424f5471cc66cd45b21fcd6ad39fe078') in 0.208841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Gem_Green.fbx
+  artifactKey: Guid(fc1bf60e850c243f0a00e8f20ae0d5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Gem_Green.fbx using Guid(fc1bf60e850c243f0a00e8f20ae0d5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd950ff879643401cb88495e82f65ad62') in 0.213300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Heart_Half.fbx
+  artifactKey: Guid(a34c2e9cbb22e41e5b8d2df72cd8ed52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Heart_Half.fbx using Guid(a34c2e9cbb22e41e5b8d2df72cd8ed52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '691f774e4d7f4330c7ee50e67dbef6f1') in 0.303553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Heart.fbx
+  artifactKey: Guid(6b413053c98294d90942272b2edcd7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Heart.fbx using Guid(6b413053c98294d90942272b2edcd7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f705719491abcb058a633894f9606a49') in 0.212675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001189 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Coin.fbx
+  artifactKey: Guid(d92e267a71ce04f06a0b5518ff603f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Coin.fbx using Guid(d92e267a71ce04f06a0b5518ff603f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465b85240751244d500050fedcef8448') in 0.231954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Gem_Pink.fbx
+  artifactKey: Guid(58906ef46308440b5af4b350db6198a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Gem_Pink.fbx using Guid(58906ef46308440b5af4b350db6198a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78005659211657ce79a4c0373558e72e') in 0.182563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.032955 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Heart_Outline.fbx
+  artifactKey: Guid(5527287ef759b4860a69492bf47e60b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Heart_Outline.fbx using Guid(5527287ef759b4860a69492bf47e60b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43e329bb05d5ae8c58addb4b49cf340') in 0.031195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.189769 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Key.fbx
+  artifactKey: Guid(7e325940ebb0545af956f4574f9de7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Key.fbx using Guid(7e325940ebb0545af956f4574f9de7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002b2720ddfd95ffa0f0787f2c8eaeb7') in 0.145577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Star.fbx
+  artifactKey: Guid(6546f3aefb44d4ad2820e2d43131e099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Star.fbx using Guid(6546f3aefb44d4ad2820e2d43131e099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acbdbbd6fa5245b2a0d28e0568738382') in 0.145069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.434752 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Star_Outline.fbx
+  artifactKey: Guid(83329e2aa9c484ff28cdf5a32f5743cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Star_Outline.fbx using Guid(83329e2aa9c484ff28cdf5a32f5743cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e6ce16ea3ebe6c02dc38194a1a5e79') in 0.029003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.214061 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Thunder.fbx
+  artifactKey: Guid(bac9a5d4d8c594a87a1bc61658bc6573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX/Thunder.fbx using Guid(bac9a5d4d8c594a87a1bc61658bc6573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a6fdfd988a41bba1cc222516534a17') in 0.150642 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.007838 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Grass_2.fbx
+  artifactKey: Guid(71b28d72b3c6f4cf7859f7703a8fb25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Grass_2.fbx using Guid(71b28d72b3c6f4cf7859f7703a8fb25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b34cc172366d71e8b3f91ac80fe0fc') in 0.026897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Rock_1.fbx
+  artifactKey: Guid(1bb5a7a88fe52447d9f6fa18d5864beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Rock_1.fbx using Guid(1bb5a7a88fe52447d9f6fa18d5864beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6054f38f658372447e5aa791042b03') in 0.230519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatform_Tall.fbx
+  artifactKey: Guid(a21ef051c8c654c9cbc30550b6ad4835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatform_Tall.fbx using Guid(a21ef051c8c654c9cbc30550b6ad4835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10421196a9d809bb2d38abb0baedb76') in 0.209612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatforms_1.fbx
+  artifactKey: Guid(228af36bd927a4d459fd5bc6ef7ad8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatforms_1.fbx using Guid(228af36bd927a4d459fd5bc6ef7ad8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abdbc317f7e345faf6631c2ac9ecf860') in 0.240632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Grass_3.fbx
+  artifactKey: Guid(8c1bff54f1b464e68b8ffe464e376e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Grass_3.fbx using Guid(8c1bff54f1b464e68b8ffe464e376e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f83165717e965c11bce895f92897ca') in 0.304497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Rock_2.fbx
+  artifactKey: Guid(329b9936c4bd342c28e20282bed822b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Rock_2.fbx using Guid(329b9936c4bd342c28e20282bed822b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb3cf9121d03f99ce0371f64fb2d8dfb') in 0.178630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.256959 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatforms_2.fbx
+  artifactKey: Guid(43ef655baf2ea4bf4a8c8682b354f132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatforms_2.fbx using Guid(43ef655baf2ea4bf4a8c8682b354f132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9837334a4292571b35166a5bc13f6a6') in 0.040975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.146046 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatforms_3.fbx
+  artifactKey: Guid(0e1309bde2fc84d8e913cd98af1a2828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatforms_3.fbx using Guid(0e1309bde2fc84d8e913cd98af1a2828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0814916587d20d91f54029e317d8a044') in 0.087227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatforms_Large.fbx
+  artifactKey: Guid(856fe8a819da345dfab399a8e38b8928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatforms_Large.fbx using Guid(856fe8a819da345dfab399a8e38b8928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03b5f126628cefef88b09d159e8f9d7') in 0.205727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.823136 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatforms_Medium.fbx
+  artifactKey: Guid(3e528e73ca3e04c8f990a3c532b4c2be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/RockPlatforms_Medium.fbx using Guid(3e528e73ca3e04c8f990a3c532b4c2be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f57fa553652c1cc4a1a5c843b5461d') in 0.050144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.244000 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Tree.fbx
+  artifactKey: Guid(8c4d6bfc6fca04bbfa40e23507a6d1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Tree.fbx using Guid(8c4d6bfc6fca04bbfa40e23507a6d1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74eaa72691182cb76d2bcd9b7b1884e7') in 0.108830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.893954 seconds.
+  path: Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Tree_Fruit.fbx
+  artifactKey: Guid(0fab07d822ab94a1485a8194d0109f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ultimate Platformer Pack - Dec 2021/Nature/FBX/Tree_Fruit.fbx using Guid(0fab07d822ab94a1485a8194d0109f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb8f0f2091808cc43fb18a845f5663db') in 0.064887 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002371 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 4.45 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.093 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6096ms)
+		BeginReloadAssembly (196ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (91ms)
+		EndReloadAssembly (5737ms)
+			LoadAssemblies (102ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (2329ms)
+			ReleaseScriptCaches (23ms)
+			RebuildScriptCaches (789ms)
+			SetupLoadedEditorAssemblies (1957ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (36ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (5ms)
+				BeforeProcessingInitializeOnLoad (229ms)
+				ProcessInitializeOnLoadAttributes (1569ms)
+				ProcessInitializeOnLoadMethodAttributes (114ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 11.79 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3799 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (1.9 MB). Loaded Objects now: 4586.
+Memory consumption went from 297.0 MB to 295.2 MB.
+Total: 19.538825 ms (FindLiveObjects: 2.315884 ms CreateObjectMapping: 2.473273 ms MarkObjects: 11.913224 ms  DeleteObjects: 2.829689 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 187.164980 seconds.
+  path: Assets/Scenes/Mechanics.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Mechanics.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a2e6eb6370ff5400eab8fc291fd0433') in 0.030498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.001043 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb8d1daaecea23bcbb9c323ef7954f1') in 0.001950 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002611 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 3.65 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.140 seconds
+Domain Reload Profiling:
+	ReloadAssembly (7149ms)
+		BeginReloadAssembly (1779ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (104ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (977ms)
+		EndReloadAssembly (4827ms)
+			LoadAssemblies (674ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (1386ms)
+			ReleaseScriptCaches (6ms)
+			RebuildScriptCaches (342ms)
+			SetupLoadedEditorAssemblies (2288ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (57ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (4ms)
+				BeforeProcessingInitializeOnLoad (236ms)
+				ProcessInitializeOnLoadAttributes (1849ms)
+				ProcessInitializeOnLoadMethodAttributes (133ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 15.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3799 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (1.9 MB). Loaded Objects now: 4601.
+Memory consumption went from 297.3 MB to 295.4 MB.
+Total: 21.692537 ms (FindLiveObjects: 0.899128 ms CreateObjectMapping: 0.620874 ms MarkObjects: 14.786215 ms  DeleteObjects: 5.380463 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004580 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.95 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.703 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4704ms)
+		BeginReloadAssembly (190ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (75ms)
+		EndReloadAssembly (4176ms)
+			LoadAssemblies (320ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1252ms)
+			ReleaseScriptCaches (10ms)
+			RebuildScriptCaches (371ms)
+			SetupLoadedEditorAssemblies (1816ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (39ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (221ms)
+				ProcessInitializeOnLoadAttributes (1441ms)
+				ProcessInitializeOnLoadMethodAttributes (107ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 11.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3799 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (1.9 MB). Loaded Objects now: 4616.
+Memory consumption went from 297.5 MB to 295.6 MB.
+Total: 12.768294 ms (FindLiveObjects: 2.177226 ms CreateObjectMapping: 0.843858 ms MarkObjects: 7.165064 ms  DeleteObjects: 2.576076 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004187 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.311 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5313ms)
+		BeginReloadAssembly (205ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (75ms)
+		EndReloadAssembly (4961ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (983ms)
+			ReleaseScriptCaches (8ms)
+			RebuildScriptCaches (411ms)
+			SetupLoadedEditorAssemblies (2906ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (27ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (271ms)
+				ProcessInitializeOnLoadAttributes (2462ms)
+				ProcessInitializeOnLoadMethodAttributes (139ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 18.51 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3799 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (1.9 MB). Loaded Objects now: 4631.
+Memory consumption went from 297.7 MB to 295.8 MB.
+Total: 9.742133 ms (FindLiveObjects: 1.180379 ms CreateObjectMapping: 0.559676 ms MarkObjects: 7.143830 ms  DeleteObjects: 0.853592 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002975 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /Users/macbookpro/Documents/unity projects/bomb_boy/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 14.91 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.655 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5658ms)
+		BeginReloadAssembly (245ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (95ms)
+		EndReloadAssembly (5255ms)
+			LoadAssemblies (123ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1837ms)
+			ReleaseScriptCaches (8ms)
+			RebuildScriptCaches (378ms)
+			SetupLoadedEditorAssemblies (2430ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (74ms)
+				SetLoadedEditorAssemblies (11ms)
+				RefreshPlugins (15ms)
+				BeforeProcessingInitializeOnLoad (379ms)
+				ProcessInitializeOnLoadAttributes (1797ms)
+				ProcessInitializeOnLoadMethodAttributes (144ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (2ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (23ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 20.95 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3799 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (1.9 MB). Loaded Objects now: 4646.
+Memory consumption went from 297.9 MB to 296.0 MB.
+Total: 16.823717 ms (FindLiveObjects: 1.842870 ms CreateObjectMapping: 1.882694 ms MarkObjects: 11.197129 ms  DeleteObjects: 1.897117 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
