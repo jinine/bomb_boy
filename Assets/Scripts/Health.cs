@@ -19,11 +19,11 @@ public class Health : MonoBehaviour
     }
 
     private void Die(){
-
+        gameObject.SetActive(false);
     }
 
     void Update()
     {
-        gameObject.SetActive(false);
+        
     }
 }

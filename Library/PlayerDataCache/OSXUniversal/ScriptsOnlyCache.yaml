@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Gun
+    - Health
     - playerShooting
     - updatedPlayerMovement
     Cinemachine.dll:
@@ -190,6 +191,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 58604}
     - Class: 114
       Script: {instanceID: 98550}
+    - Class: 114
+      Script: {instanceID: 102998}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1559,6 +1562,60 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Health
+  - hash:
+      serializedVersion: 2
+      Hash: 605879ae8a51846c27ba034f03fca9f0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: ActivateCamOnPlay
+  - hash:
+      serializedVersion: 2
+      Hash: 5769a4d54691a63c2293509282030a0b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerMovePhysics
+  - hash:
+      serializedVersion: 2
+      Hash: ab27db6424e6a42d2987ae60fd912200
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ActivateOnKeypress
+  - hash:
+      serializedVersion: 2
+      Hash: c375149744c32ae4f94f0bb54681ea40
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: MixingCameraBlend
+  - hash:
+      serializedVersion: 2
+      Hash: 74893783a1f646160c2c29f77c099048
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: ExampleHelpWindow
+  - hash:
+      serializedVersion: 2
+      Hash: 6b5db04491c16ddb2d3c17f263ce8ce0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: CharacterMovement2D
+  - hash:
+      serializedVersion: 2
+      Hash: 51a45fe5a3320385e6be527ecc94cad2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: CharacterMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 3b25bfcfe71d4a53e9fb184219665f24
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerMove
+  - hash:
+      serializedVersion: 2
+      Hash: c6b9cd70fd33534e8f650dc6c7053f49
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: ActivateCameraWithDistance
   platform: 2
   scenePathNames:
   - Assets/Scenes/Level 1.unity

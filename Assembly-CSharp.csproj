@@ -62,6 +62,15 @@
      <Compile Include="Assets/Scripts/playerShooting.cs" />
      <Compile Include="Assets/Scripts/Gun.cs" />
      <Compile Include="Assets/Scripts/Health.cs" />
+     <Compile Include="Assets/CinemachineExamples/Shared/Scripts/ActivateCamOnPlay.cs" />
+     <Compile Include="Assets/CinemachineExamples/Shared/Scripts/PlayerMovePhysics.cs" />
+     <Compile Include="Assets/CinemachineExamples/Scenes/OverTheShoulderAim/ActivateOnKeypress.cs" />
+     <Compile Include="Assets/CinemachineExamples/Shared/Scripts/MixingCameraBlend.cs" />
+     <Compile Include="Assets/CinemachineExamples/Shared/Scripts/ExampleHelpWindow.cs" />
+     <Compile Include="Assets/CinemachineExamples/Shared/Models/UnityCharacter/Scripts/CharacterMovement2D.cs" />
+     <Compile Include="Assets/CinemachineExamples/Shared/Models/UnityCharacter/Scripts/CharacterMovement.cs" />
+     <Compile Include="Assets/CinemachineExamples/Shared/Scripts/PlayerMove.cs" />
+     <Compile Include="Assets/CinemachineExamples/Shared/Scripts/ActivateCameraWithDistance.cs" />
      <None Include="Assets/TerrainSampleAssets/ThirdPartyNotices.txt" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />

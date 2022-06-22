@@ -32,7 +32,11 @@ public class Gun : MonoBehaviour
 
         if(Physics.Raycast(ray, out hitInfo, 100)){
             if(hitInfo.collider.gameObject.tag != "terrain"){
-                 Destroy(hitInfo.collider.gameObject);
+                //  Destroy(hitInfo.collider.gameObject);
+                var health = hitInfo.collider.GetComponent<Health>();
+                if(health != null){
+                    health.TakeDamage(damage);
+                }
             }
            
         }

@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 84692
+  controlID: 93107
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -90,7 +90,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 84693
+  controlID: 93108
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,8 +165,8 @@ MonoBehaviour:
     y: 0
     width: 906
     height: 527
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 5}
   m_Panes:
   - {fileID: 5}
@@ -399,9 +399,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.515335, y: 29.694994, z: 146.27995}
+    m_Target: {x: -16.787508, y: 17.432268, z: 99.26211}
     speed: 2
-    m_Value: {x: 3.515335, y: 29.694994, z: 146.27995}
+    m_Value: {x: -16.787508, y: 17.432268, z: 99.26211}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -448,13 +448,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.02698931, y: -0.025451155, z: 0.0006777516, w: -0.9993309}
+    m_Target: {x: 0.016498273, y: 0.0075378055, z: 0.000106647836, w: -0.9998584}
     speed: 2
-    m_Value: {x: -0.026988784, y: -0.02545066, z: 0.00067773846, w: -0.99931145}
+    m_Value: {x: 0.016497895, y: 0.007537633, z: 0.0001066454, w: -0.9998355}
   m_Size:
-    m_Target: 8.65958
+    m_Target: 13.010415
     speed: 2
-    m_Value: 8.65958
+    m_Value: 13.010415
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -613,7 +613,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 84721
+  controlID: 93189
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -632,9 +632,9 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 444
-    height: 423
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    height: 422
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -664,7 +664,7 @@ MonoBehaviour:
     x: 906
     y: 30
     width: 442
-    height: 402
+    height: 401
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -672,9 +672,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 42a7faff
-      m_LastClickedID: -350398
-      m_ExpandedIDs: e211fbff0e49fbff98f5fcffeef5fcff8af7fcff44f9fcff9af9fcffeafcfcff782dfdffd02dfdff6c2ffdff6631fdffbc31fdfff232fdff7234fdffce34fdffb437fdfff0faffff025d0000285d0000d44a01008e4c0100307b0100
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 887ffaffde7ffaff1483faff4096faff9896faff8c9bfaffe211fbff0e49fbff98f5fcffeef5fcff8af7fcff44f9fcff9af9fcffeafcfcff782dfdffd02dfdff6c2ffdff6631fdffbc31fdfff232fdff7234fdffce34fdffb437fdfff0faffff025d0000285d0000d44a01008e4c0100307b0100742d020076b10200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -714,9 +714,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 423
+    y: 422
     width: 444
-    height: 607
+    height: 608
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 12}
@@ -746,9 +746,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 906
-    y: 453
+    y: 452
     width: 442
-    height: 586
+    height: 587
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -766,22 +766,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Ultimate Platformer Pack - Dec 2021/Cubes/FBX
+    - Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Ultimate Platformer Pack - Dec 2021/Cubes/FBX
+  - Assets/Ultimate Platformer Pack - Dec 2021/Powerups and Pickups/FBX
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/macbookpro/Documents/unity projects/bomb_boy
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 12650000
-    m_LastClickedID: 25874
-    m_ExpandedIDs: 000000008e5f0000925f00009c5f0000b65f000006610000b2640000b4640000706e000080f8000000ca9a3b
+    scrollPos: {x: 0, y: 510.99976}
+    m_SelectedIDs: da710000
+    m_LastClickedID: 29146
+    m_ExpandedIDs: 000000008e5f0000905f0000925f0000b65f000006610000e0630000b2640000b4640000b6640000b8640000ba640000bc640000706e000080f8000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -797,7 +797,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 11}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -809,7 +809,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008e5f0000925f00009c5f000006610000b4640000706e000080f8000000ca9a3b
+    m_ExpandedIDs: 000000008e5f0000905f0000925f0000b65f000006610000e0630000b2640000b4640000b6640000b8640000ba640000bc640000706e000080f8000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -834,10 +834,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 42a7faff
-    m_LastClickedInstanceID: -350398
-    m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: 5cf800001ef8000014650000
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: 5cf800001ef800001465000038660000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
