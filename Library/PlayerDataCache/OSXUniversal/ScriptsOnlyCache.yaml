@@ -1,6 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Gun
     - playerShooting
     - updatedPlayerMovement
     Cinemachine.dll:
@@ -41,14 +42,14 @@ ScriptsOnlyBuild:
     - UnityEditor.TerrainTools.VoronoiNoise
     - UnityEditor.TerrainTools.WindErosionTool
     - UnityEngine.TerrainTools.TerrainPalette
-    Unity.TerrainTools.dll:
-    - TerrainGroup
     Unity.TextMeshPro.dll:
     - TMPro.TMP_FontAsset
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
+    Unity.Timeline.Editor.dll:
+    - TimelinePreferences
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
@@ -104,7 +105,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
   methodsToPreserve: []
   sceneClasses:
-    Assets/Scenes/Mechanics.unity:
+    Assets/Scenes/Level 1.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -186,9 +187,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6820}
     - Class: 114
-      Script: {instanceID: 48106}
-    - Class: 114
       Script: {instanceID: 58604}
+    - Class: 114
+      Script: {instanceID: 98550}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -218,8 +219,6 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
     - Class: 850595691
-      Script: {instanceID: 0}
-    - Class: 1953259897
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -1548,7 +1547,19 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: playerShooting
+  - hash:
+      serializedVersion: 2
+      Hash: d5db0fa4d9908a03b3f3663adca242bd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Gun
+  - hash:
+      serializedVersion: 2
+      Hash: 32659ca67bea1b34a6fb4b4033e6e300
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Health
   platform: 2
   scenePathNames:
-  - Assets/Scenes/Mechanics.unity
-  playerPath: /Users/macbookpro/Documents/unity projects/bomb_boy/capico_movement.app
+  - Assets/Scenes/Level 1.unity
+  playerPath: /Users/macbookpro/Documents/unity projects/bomb_boy/capico_l1.app

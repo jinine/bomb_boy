@@ -320,6 +320,8 @@
 "Assets/RogueNoodle/GBCamera/Example Elements/Scripts/RandomPaletteButton.cs"
 "Assets/RogueNoodle/GBCamera/Example Elements/Scripts/Rotate.cs"
 "Assets/Scripts/cameraMovement.cs"
+"Assets/Scripts/Gun.cs"
+"Assets/Scripts/Health.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/playerShooting.cs"
 "Assets/Scripts/updatedPlayerMovement.cs"
