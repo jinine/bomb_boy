@@ -34,7 +34,7 @@ public class Health : MonoBehaviour
         animator.SetBool("dying", true);
        
         if(gameObject.tag == "player"){
-            SceneManager.LoadScene( SceneManager.GetActiveScene().name );
+            Application.LoadLevel(0);
         } else{
             gameObject.SetActive(false);
         }
