@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - Gun
     - Health
+    - Healthbar
     - playerShooting
     - updatedPlayerMovement
     Cinemachine.dll:
@@ -18,39 +19,21 @@ ScriptsOnlyBuild:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TerrainTools.Editor.dll:
     - UnityEditor.TerrainTools.BillowNoise
-    - UnityEditor.TerrainTools.BridgeTool
-    - UnityEditor.TerrainTools.CloneBrushTool
-    - UnityEditor.TerrainTools.ContrastTool
     - UnityEditor.TerrainTools.FbmFractalType
     - UnityEditor.TerrainTools.NoiseBlitShaderGenerator
     - UnityEditor.TerrainTools.NoiseFillShaderGenerator
-    - UnityEditor.TerrainTools.NoiseHeightTool
     - UnityEditor.TerrainTools.NoneFractalType
-    - UnityEditor.TerrainTools.PaintHeightTool
-    - UnityEditor.TerrainTools.PaintHolesTool
-    - UnityEditor.TerrainTools.PaintTextureTool
     - UnityEditor.TerrainTools.PerlinNoise
     - UnityEditor.TerrainTools.RidgeNoise
-    - UnityEditor.TerrainTools.SetHeightTool
-    - UnityEditor.TerrainTools.SharpenPeaksTool
-    - UnityEditor.TerrainTools.SlopeFlattenTool
-    - UnityEditor.TerrainTools.SmoothHeightTool
-    - UnityEditor.TerrainTools.StampTool
     - UnityEditor.TerrainTools.StrataFractalType
-    - UnityEditor.TerrainTools.TerraceErosion
-    - UnityEditor.TerrainTools.ThermalErosionTool
     - UnityEditor.TerrainTools.ValueNoise
     - UnityEditor.TerrainTools.VoronoiNoise
-    - UnityEditor.TerrainTools.WindErosionTool
-    - UnityEngine.TerrainTools.TerrainPalette
     Unity.TextMeshPro.dll:
     - TMPro.TMP_FontAsset
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
-    Unity.Timeline.Editor.dll:
-    - TimelinePreferences
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
@@ -69,6 +52,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Slider
   serializedClasses:
     Cinemachine:
     - Cinemachine.AxisState
@@ -103,7 +87,12 @@ ScriptsOnlyBuild:
     - UnityEngine.TextCore.GlyphMetrics
     - UnityEngine.TextCore.GlyphRect
     UnityEngine.UI:
+    - UnityEngine.UI.AnimationTriggers
+    - UnityEngine.UI.ColorBlock
     - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+    - UnityEngine.UI.Navigation
+    - UnityEngine.UI.Slider/SliderEvent
+    - UnityEngine.UI.SpriteState
   methodsToPreserve: []
   sceneClasses:
     Assets/Scenes/Level 1.unity:
@@ -150,49 +139,53 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1604}
+      Script: {instanceID: 1702}
     - Class: 114
-      Script: {instanceID: 1658}
+      Script: {instanceID: 1758}
     - Class: 114
-      Script: {instanceID: 1852}
+      Script: {instanceID: 1954}
     - Class: 114
-      Script: {instanceID: 2340}
+      Script: {instanceID: 2454}
     - Class: 114
-      Script: {instanceID: 2744}
+      Script: {instanceID: 2504}
     - Class: 114
-      Script: {instanceID: 2818}
+      Script: {instanceID: 2884}
     - Class: 114
-      Script: {instanceID: 2828}
+      Script: {instanceID: 2960}
     - Class: 114
-      Script: {instanceID: 2898}
+      Script: {instanceID: 2972}
     - Class: 114
-      Script: {instanceID: 4502}
+      Script: {instanceID: 3048}
     - Class: 114
-      Script: {instanceID: 4528}
+      Script: {instanceID: 4708}
     - Class: 114
-      Script: {instanceID: 4830}
+      Script: {instanceID: 4736}
     - Class: 114
-      Script: {instanceID: 5232}
+      Script: {instanceID: 5058}
     - Class: 114
-      Script: {instanceID: 5638}
+      Script: {instanceID: 5336}
     - Class: 114
-      Script: {instanceID: 6122}
+      Script: {instanceID: 5480}
     - Class: 114
-      Script: {instanceID: 6238}
+      Script: {instanceID: 5808}
     - Class: 114
-      Script: {instanceID: 6276}
+      Script: {instanceID: 5826}
     - Class: 114
-      Script: {instanceID: 6290}
+      Script: {instanceID: 5900}
     - Class: 114
-      Script: {instanceID: 6460}
+      Script: {instanceID: 6400}
     - Class: 114
-      Script: {instanceID: 6820}
+      Script: {instanceID: 6524}
     - Class: 114
-      Script: {instanceID: 58604}
+      Script: {instanceID: 6562}
     - Class: 114
-      Script: {instanceID: 98550}
+      Script: {instanceID: 6578}
     - Class: 114
-      Script: {instanceID: 102998}
+      Script: {instanceID: 6758}
+    - Class: 114
+      Script: {instanceID: 7136}
+    - Class: 114
+      Script: {instanceID: 8160}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -316,6 +309,12 @@ ScriptsOnlyBuild:
     className: CinemachineTriggerAction
   - hash:
       serializedVersion: 2
+      Hash: 5769a4d54691a63c2293509282030a0b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerMovePhysics
+  - hash:
+      serializedVersion: 2
       Hash: caa533b001ae39b864ba8425019e2268
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -382,6 +381,12 @@ ScriptsOnlyBuild:
     className: UnityOnPointerUpMessageListener
   - hash:
       serializedVersion: 2
+      Hash: d5db0fa4d9908a03b3f3663adca242bd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Gun
+  - hash:
+      serializedVersion: 2
       Hash: 91d258529db2b5060a913f2afcea1a21
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner
@@ -412,6 +417,12 @@ ScriptsOnlyBuild:
     className: PostProcessLayer
   - hash:
       serializedVersion: 2
+      Hash: 4c11ac8a43930d2850ad82497b69a35e
+    assemblyName: Unity.TerrainTools.dll
+    namespaceName: 
+    className: TerrainGroup
+  - hash:
+      serializedVersion: 2
       Hash: f665dfdb70bad5be23601d882507c2ff
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -422,6 +433,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnBecameVisibleMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 6b5db04491c16ddb2d3c17f263ce8ce0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: CharacterMovement2D
   - hash:
       serializedVersion: 2
       Hash: 4a03f6b1ff196600b4f44591c20b6e2b
@@ -922,10 +939,28 @@ ScriptsOnlyBuild:
     className: UnityOnPointerClickMessageListener
   - hash:
       serializedVersion: 2
+      Hash: ab27db6424e6a42d2987ae60fd912200
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ActivateOnKeypress
+  - hash:
+      serializedVersion: 2
+      Hash: 5cf77c324148e9819465159fef26299e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Health
+  - hash:
+      serializedVersion: 2
       Hash: d5630f96bd5a6a6eed7e1754c3fb8703
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: PostProcessVolume
+  - hash:
+      serializedVersion: 2
+      Hash: 74893783a1f646160c2c29f77c099048
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: ExampleHelpWindow
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1036,6 +1071,12 @@ ScriptsOnlyBuild:
     className: HorizontalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: 1028c39545bcfa841aaab54121e69a47
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Healthbar
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1114,6 +1155,12 @@ ScriptsOnlyBuild:
     className: CinemachineOrbitalTransposer
   - hash:
       serializedVersion: 2
+      Hash: 3b25bfcfe71d4a53e9fb184219665f24
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerMove
+  - hash:
+      serializedVersion: 2
       Hash: 62824bb9557c7e987502f2fbd2a26819
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
@@ -1184,6 +1231,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: cameraMovement
+  - hash:
+      serializedVersion: 2
+      Hash: c375149744c32ae4f94f0bb54681ea40
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: MixingCameraBlend
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1384,6 +1437,12 @@ ScriptsOnlyBuild:
     className: CinemachineTrackedDolly
   - hash:
       serializedVersion: 2
+      Hash: 9a80f9998e43e28724884e4aa17d9eb1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: playerShooting
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1400,6 +1459,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: PostProcessProfile
+  - hash:
+      serializedVersion: 2
+      Hash: 51a45fe5a3320385e6be527ecc94cad2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: CharacterMovement
   - hash:
       serializedVersion: 2
       Hash: 50c443b12ccc0b475183318b5088bcc5
@@ -1424,6 +1489,12 @@ ScriptsOnlyBuild:
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: CinemachineStateDrivenCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 605879ae8a51846c27ba034f03fca9f0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: ActivateCamOnPlay
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1516,16 +1587,22 @@ ScriptsOnlyBuild:
     className: UnityOnToggleValueChangedMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Unity.VisualScripting.Core.dll
-    namespaceName: Unity.VisualScripting
-    className: UnityOnMouseEnterMessageListener
+      Hash: c6b9cd70fd33534e8f650dc6c7053f49
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Cinemachine.Examples
+    className: ActivateCameraWithDistance
   - hash:
       serializedVersion: 2
       Hash: a2113831d3323f931007e1b3812dc814
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: CinemachineFollowZoom
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.VisualScripting.Core.dll
+    namespaceName: Unity.VisualScripting
+    className: UnityOnMouseEnterMessageListener
   - hash:
       serializedVersion: 2
       Hash: abf1930d8126d0b2e00e9449129a0190
@@ -1538,84 +1615,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 4c11ac8a43930d2850ad82497b69a35e
-    assemblyName: Unity.TerrainTools.dll
-    namespaceName: 
-    className: TerrainGroup
-  - hash:
-      serializedVersion: 2
-      Hash: 9a80f9998e43e28724884e4aa17d9eb1
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: playerShooting
-  - hash:
-      serializedVersion: 2
-      Hash: d5db0fa4d9908a03b3f3663adca242bd
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Gun
-  - hash:
-      serializedVersion: 2
-      Hash: 32659ca67bea1b34a6fb4b4033e6e300
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Health
-  - hash:
-      serializedVersion: 2
-      Hash: 605879ae8a51846c27ba034f03fca9f0
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Cinemachine.Examples
-    className: ActivateCamOnPlay
-  - hash:
-      serializedVersion: 2
-      Hash: 5769a4d54691a63c2293509282030a0b
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlayerMovePhysics
-  - hash:
-      serializedVersion: 2
-      Hash: ab27db6424e6a42d2987ae60fd912200
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ActivateOnKeypress
-  - hash:
-      serializedVersion: 2
-      Hash: c375149744c32ae4f94f0bb54681ea40
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Cinemachine.Examples
-    className: MixingCameraBlend
-  - hash:
-      serializedVersion: 2
-      Hash: 74893783a1f646160c2c29f77c099048
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Cinemachine.Examples
-    className: ExampleHelpWindow
-  - hash:
-      serializedVersion: 2
-      Hash: 6b5db04491c16ddb2d3c17f263ce8ce0
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Cinemachine.Examples
-    className: CharacterMovement2D
-  - hash:
-      serializedVersion: 2
-      Hash: 51a45fe5a3320385e6be527ecc94cad2
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Cinemachine.Examples
-    className: CharacterMovement
-  - hash:
-      serializedVersion: 2
-      Hash: 3b25bfcfe71d4a53e9fb184219665f24
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlayerMove
-  - hash:
-      serializedVersion: 2
-      Hash: c6b9cd70fd33534e8f650dc6c7053f49
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: Cinemachine.Examples
-    className: ActivateCameraWithDistance
   platform: 2
   scenePathNames:
   - Assets/Scenes/Level 1.unity

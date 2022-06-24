@@ -52,6 +52,9 @@ public class updatedPlayerMovement : MonoBehaviour
 
         if(Input.GetButtonDown("Jump")){
             jumpButtonPressedTime = Time.time;
+            animator.SetBool("jumping", true);
+        }else{
+            animator.SetBool("jumping", false);
         }
 
         if(Time.time - lastGroundedTime <= jumpGracePeriod){

@@ -379,6 +379,7 @@
 "Assets/Scripts/cameraMovement.cs"
 "Assets/Scripts/Gun.cs"
 "Assets/Scripts/Health.cs"
+"Assets/Scripts/Healthbar.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/playerShooting.cs"
 "Assets/Scripts/updatedPlayerMovement.cs"
