@@ -26,6 +26,9 @@ public class CustomGun : MonoBehaviour
 
     public bool allowInvoke = true;
 
+    public Rigidbody playerRb;
+    public float recoilForce;
+
     private void Awake() {
         bulletsLeft = magazineSize;
         readyToShoot = true;
@@ -78,13 +81,15 @@ public class CustomGun : MonoBehaviour
         currentBullet.transform.forward = directionWithSpread.normalized;
 
         currentBullet.GetComponent<Rigidbody>().AddForce(directionWithSpread.normalized * shootForce, ForceMode.Impulse);
-
+        
         bulletsLeft--;
         bulletsShot++;
 
         if(allowInvoke){
             Invoke("ResetShot", timeBetweenShooting);
             allowInvoke = false;
+
+            playerRb.AddForce(-directionWithSpread.normalized*recoilForce, ForceMode.Impulse);
         }
 
         if(bulletsShot < bulletsPerTap && bulletsLeft > 0)
