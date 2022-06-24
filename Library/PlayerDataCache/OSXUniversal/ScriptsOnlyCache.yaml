@@ -1,7 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - Gun
+    - BillBoard
+    - Bullet
+    - CustomGun
     - Health
     - Healthbar
     - playerShooting
@@ -134,6 +136,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 95
       Script: {instanceID: 0}
+    - Class: 96
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -146,8 +150,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 1954}
     - Class: 114
       Script: {instanceID: 2454}
-    - Class: 114
-      Script: {instanceID: 2504}
     - Class: 114
       Script: {instanceID: 2884}
     - Class: 114
@@ -186,9 +188,17 @@ ScriptsOnlyBuild:
       Script: {instanceID: 7136}
     - Class: 114
       Script: {instanceID: 8160}
+    - Class: 114
+      Script: {instanceID: 53198}
+    - Class: 114
+      Script: {instanceID: 67302}
+    - Class: 114
+      Script: {instanceID: 87256}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
       Script: {instanceID: 0}
     - Class: 136
       Script: {instanceID: 0}
@@ -203,6 +213,10 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
@@ -1615,6 +1629,24 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: a26287687bdad13d8b60b237850ab4be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BillBoard
+  - hash:
+      serializedVersion: 2
+      Hash: 2e406732a843e307f31869b19167c10b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CustomGun
+  - hash:
+      serializedVersion: 2
+      Hash: 8b3a365c86f0cdcbfcbd4d82f34f880f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Bullet
   platform: 2
   scenePathNames:
   - Assets/Scenes/Level 1.unity
