@@ -38,7 +38,7 @@ public class CustomGun : MonoBehaviour
         MyInput();
 
         if(ammunitionDisplay != null)
-            ammunitionDisplay.SetText(bulletsLeft / bulletsPerTap + "/" + magazineSize / bulletsPerTap);
+            ammunitionDisplay.SetText((bulletsLeft / bulletsPerTap).ToString());
     }
 
     private void MyInput(){
