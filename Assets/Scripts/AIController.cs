@@ -75,17 +75,18 @@ public class AIController : MonoBehaviour
         {
             Patroling();
         }
-        if(!grounded){
-            // controller.Translate = Vector3(0,-1,0)*Time.deltaTime;
-            gameObject.transform.rotation = Quaternion.Euler(0,180, 0);
-
-        }
+       
     }
 
     private void LateUpdate(){
         if(!(Physics.Raycast(transform.position, Vector3.down, distToGround + 0.1f))){
             grounded = false;
         }
+
+        Vector3 lookVector =  GameObject.FindGameObjectWithTag("Player").transform.position - transform.position;
+         lookVector.y = transform.position.y;
+         Quaternion rot = Quaternion.LookRotation(lookVector);
+         transform.rotation = Quaternion.Slerp(transform.rotation, rot, 1);
     }
  
     private void Chasing()
