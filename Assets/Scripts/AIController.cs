@@ -33,6 +33,10 @@ public class AIController : MonoBehaviour
     bool m_CaughtPlayer;                            //  if the enemy has caught the player
 
     private Animator animator;
+    CharacterController controller;
+    public float distToGround = 1f;
+
+    bool grounded;
  
     void Start()
     {
@@ -51,11 +55,17 @@ public class AIController : MonoBehaviour
         navMeshAgent.speed = speedWalk;             //  Set the navemesh speed with the normal speed of the enemy
         navMeshAgent.SetDestination(waypoints[m_CurrentWaypointIndex].position);    //  Set the destination to the first waypoint
         animator = GetComponent<Animator>();
+        controller = GetComponent<CharacterController>();
+        grounded = true;
+
+        
+         
     }
  
     private void Update()
+    
     {
-            EnviromentView();                       //  Check whether or not the player is in the enemy's field of vision
+        EnviromentView();                       //  Check whether or not the player is in the enemy's field of vision
  
         if (!m_IsPatrol)
         {
@@ -64,6 +74,17 @@ public class AIController : MonoBehaviour
         else
         {
             Patroling();
+        }
+        if(!grounded){
+            // controller.Translate = Vector3(0,-1,0)*Time.deltaTime;
+            gameObject.transform.rotation = Quaternion.Euler(0,180, 0);
+
+        }
+    }
+
+    private void LateUpdate(){
+        if(!(Physics.Raycast(transform.position, Vector3.down, distToGround + 0.1f))){
+            grounded = false;
         }
     }
  
